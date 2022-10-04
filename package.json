@@ -1,0 +1,8 @@
+{
+    "name": "go-fund-me-website",
+    "author": "farhan anis",
+    "version": "1.0.0",
+    "devDependencies": {
+        "prettier": "^2.7.1"
+    }
+}
