@@ -1,7 +1,7 @@
 # html-fund-me-fcc
 
 I copied the readme From the course repo
-This is a minimalistic example what you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
+
 
 # Requirements
 
@@ -22,7 +22,6 @@ Confused? You can run `git checkout nodejs-edition` if you'd like to see this wi
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/html-fund-me-fcc)
 
 # Quickstart
 
